@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm an experienced Civil Engineer looking to transition into the tech world<br>⚡ I’m currently studying at AUEB, completing a 6-month full time coding bootcamp<br>🌱 I’m currently focusing on Java Spring and various Front End technologies<br><br>
+🔭Full-Stack Developer, specializing in the Java ecosystem. Integrated Masters in Civil Engineering<br>⚡ I’m currently studying at AUEB, completing a 6-month full time coding bootcamp<br>🌱 I’m currently focusing on Java Spring and various Front End technologies<br><br>
 
 
 ## 🌐 Socials:
